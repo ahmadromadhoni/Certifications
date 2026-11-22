@@ -8,7 +8,9 @@ Collection of certificates from training programs, bootcamps, internships, and Q
 - `PT IDEA Safety-QHSE Awareness Management` — QHSE management system awareness certificates.
 - `Sekolah Ekspor` — Certificate from the export program.
 - `Vinix7-Business Inteligence` — Certificate/documentation from the Business Intelligence internship program.
-
+## Google Drive Backup
+For easier viewing or previewing larger PDF files (such as the PT IDEA QHSE certificate) without GitHub viewer limitations:
+- **Certifications Folder (Google Drive):** [Open Google Drive Folder](https://drive.google.com/drive/folders/1FZ_D3o8i5pJRoI9PLh-6QkeJN50uAodn?usp=sharing)
 ---
 **Author:** Ahmad Romadhoni  
 **Affiliation:** Management Student, Universitas Terbuka Surabaya
